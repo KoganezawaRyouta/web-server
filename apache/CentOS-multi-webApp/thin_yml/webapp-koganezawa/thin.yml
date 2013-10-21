@@ -1,0 +1,7 @@
+prefix: /koganezawa
+pid: tmp/pids/thin.pid
+log: log/thin.log
+servers: 1
+port: 3003
+daemonize: true
+environment: production
